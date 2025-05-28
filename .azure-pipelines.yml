@@ -5,7 +5,7 @@ pool:
   vmImage: "ubuntu-latest"
 
 variables:
-  azureSubscription: "d923be12-0a8a-4ad6-aec7-cd91a06c8af2"
+  azureSubscription: "bfb020f5-c7c6-432d-9290-c3b9e564f60e"
   appName: "final"
 
 steps:
